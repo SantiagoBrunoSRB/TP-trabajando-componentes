@@ -1,0 +1,23 @@
+[
+    {
+        "key": 1,
+        "title": "Movies in Data Base",
+        "length": 21,
+        "color": "card border-left-primary shadow h-100 py-2",
+        "icon": "fas fa-film fa-2x text-gray-300"
+    },
+    {
+        "key": 2,
+        "title": "Total awards",
+        "length": 79,
+        "color": "card border-left-success shadow h-100 py-2",
+        "icon": "fas fa-award fa-2x text-gray-300"
+    },
+    {
+        "key": 3,
+        "title": "Actors quantity",
+        "length": 21,
+        "color": "card border-left-warning shadow h-100 py-2",
+        "icon": "fas fa-user fa-2x text-gray-300"
+    }
+]

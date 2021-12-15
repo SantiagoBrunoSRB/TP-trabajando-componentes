@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Billy Elliot",
+        "length": "123",
+        "rating": "5",
+        "genres": ["Drama","comedia"],
+        "awards": 2
+    },
+    {
+        "title": "Alicia en el país de las maravillas",
+        "length": "142",
+        "rating": "4.8",
+        "genres": ["Drama","Acción","Comedia"],
+        "awards": 3
+    }
+]
